@@ -27,3 +27,5 @@ You can purchase and find more informations about our classses in our roblox gro
 For more informations, join our dizzy server and have a great day!
 ```
 [Old Discord Server Link](https://discord.gg/GV6pvjw)
+
+![ReasonForOpenSourcing](https://northamericanfurryclan.ga/images/48757605.png)
