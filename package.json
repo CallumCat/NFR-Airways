@@ -9,7 +9,7 @@
   "author": "AviaEmirates",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.9.9",
+    "mongoose": "^5.13.15",
     "ms": "^2.1.2",
     "noblox.js": "^4.2.6",
     "node-fetch": "^2.6.7",
