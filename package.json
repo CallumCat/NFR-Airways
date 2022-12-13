@@ -15,7 +15,7 @@
     "node-fetch": "^2.6.7",
     "nodemon": "^2.0.3",
     "express-glitch-keepalive": "^0.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "bloxy": "^2.15.0",
     "trello": "^0.10.0",
     "discord.js": "^11.5.1"
